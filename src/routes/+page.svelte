@@ -6,6 +6,11 @@
   });
 </script>
 
+<svelte:head>
+  <title>itsTime</title>
+  <meta name="description" content="wah" />
+</svelte:head>
+
 <div class="flex p-4 justify-center items-center h-lvh">
   <a class="w-full max-w-4xl" href="https://twitch.tv/platinummeg">
     <img class="h-full w-full rounded-2xl" alt="It's time" src="itstime.webp" />
